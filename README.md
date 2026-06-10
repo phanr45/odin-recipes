@@ -2,7 +2,7 @@
 Project: Recipes
 
 
-This will be the first project following the ODIN project using.
+This will be the first project following the ODIN project.
 
 In this project I will demonstrate basic HTML creating a recipes website.
 
